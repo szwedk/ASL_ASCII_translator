@@ -1,0 +1,23 @@
+
+
+0= Wrist
+1= Thumb IP (Intermediate Phalanx)
+2= Thumb MP (Metacarpophalangeal joint)
+3= Thumb CMC (Carpometacarpal joint)
+4= Thumb TIP (Tip of the thumb)
+5= Index finger MCP (Metacarpophalangeal joint)
+6= Index finger PIP (Proximal interphalangeal joint)
+7= Index finger DIP (Distal interphalangeal joint)
+8= Index finger TIP (Tip of the index finger)
+9= Middle finger MCP (Metacarpophalangeal joint)
+10= Middle finger PIP (Proximal interphalangeal joint)
+11= Middle finger DIP (Distal interphalangeal joint)
+12= Middle finger TIP (Tip of the middle finger)
+13=Ring finger MCP (Metacarpophalangeal joint)
+14= Ring finger PIP (Proximal interphalangeal joint)
+15= Ring finger DIP (Distal interphalangeal joint)
+16= Ring finger TIP (Tip of the ring finger)
+17= Pinky MCP (Metacarpophalangeal joint)
+18= Pinky PIP (Proximal interphalangeal joint)
+19= Pinky DIP (Distal interphalangeal joint)
+20= Pinky TIP (Tip of the pinky finger)
