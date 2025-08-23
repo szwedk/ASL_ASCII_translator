@@ -2,7 +2,7 @@
 
 Translate American Sign Language (ASL) inputs into clear ASCII art. This repository provides a simple pipeline that maps recognized hand poses to ASCII representations for education, accessibility, and demos.
 
-## Features
+## Features 
 
 - ASL to ASCII mapping with a human editable lookup file
 - Command line scripts and a minimal web demo
